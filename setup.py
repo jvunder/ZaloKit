@@ -32,8 +32,8 @@ dev_requirements = [
 setup(
     name="zalokit",
     version="0.1.0",
-    author="ZaloKit Contributors",
-    author_email="zalokit@example.com",
+    author="jvunder",
+    author_email="jvunder@users.noreply.github.com",
     description="A powerful Python SDK for the Zalo API",
     long_description=long_description,
     long_description_content_type="text/markdown",

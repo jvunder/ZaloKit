@@ -9,10 +9,10 @@ description = "A powerful Python SDK for the Zalo API"
 readme = "README.md"
 license = {file = "LICENSE"}
 authors = [
-    {name = "ZaloKit Contributors", email = "zalokit@example.com"}
+    {name = "jvunder", email = "jvunder@users.noreply.github.com"}
 ]
 maintainers = [
-    {name = "ZaloKit Contributors", email = "zalokit@example.com"}
+    {name = "jvunder", email = "jvunder@users.noreply.github.com"}
 ]
 keywords = [
     "zalo",
