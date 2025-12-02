@@ -1,0 +1,15 @@
+include LICENSE
+include README.md
+include README_VI.md
+include requirements.txt
+include requirements-dev.txt
+include pyproject.toml
+
+recursive-include zalokit *.py
+recursive-include tests *.py
+recursive-include examples *.py
+recursive-include docs *.md *.yml
+
+global-exclude __pycache__
+global-exclude *.py[cod]
+global-exclude .DS_Store
